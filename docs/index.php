@@ -7,6 +7,7 @@ echo 789;
 
 sdfdfdf
 
+master branch
 new_f branch
 тест-тест
 изменение в новой ветке
